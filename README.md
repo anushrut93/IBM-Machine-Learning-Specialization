@@ -1,7 +1,7 @@
 # IBM_ML_Specialization
 
 This repository contains 6 projects that I finished as part of the IBM Machine Learning Professional Certificate. 
-Each project corresponds to one of these 6 courses that together comprise this specialization:
+Each of the following projects corresponds to one of these 6 courses that together comprise this specialization:
 
 1. Exploratory Data Analysis for Machine Learning
 2. Supervised Machine Learning: Regression
